@@ -14,3 +14,10 @@ app.listen(8080,() =>{console.log('servidor ligado')})
 
 
 //para rodar o nodemon, basta digitar "npm run dev" no terminal
+
+/* Para subir o codigo pro git hub
+git status(para ver oq ta acontecendo)
+git add . (para colocar tudo)
+git commit -m "colocar a alteração resumida aq"
+git push
+*/
