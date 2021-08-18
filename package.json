@@ -1,0 +1,26 @@
+{
+  "name": "meu_portfolio",
+  "version": "1.0.0",
+  "description": "Essa é a minha primeira tentativa de fazer um portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    ,"dev": "nodemon" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vexwe/Portfolio.git"
+  },
+  "author": "Vexwe_",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vexwe/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Vexwe/Portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
