@@ -19,5 +19,5 @@ app.listen(8080,() =>{console.log('servidor ligado')})
 git status(para ver oq ta acontecendo)
 git add . (para colocar tudo)
 git commit -m "colocar a alteração resumida aq"
-git push
+git push (caso não funcione"git push -u origin master")
 */

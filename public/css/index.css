@@ -24,21 +24,30 @@ div {
 
     background-color: #64072B;
     color: white;
-
-    padding: 16px 24px;
+    padding: 10px 10px;
+    
 } 
 
 #aa{
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    bottom: 0;
-    background-color: #64072B;
-    color: white;
-
-    padding: 16px 24px;
+ 
 }
 
-div.a{
-    margin:10px ;
+p{
+   /* Olá, seja bem vindo ao meu portfolio, aqui você vai ver um pouco sobre mim. Meu nome é Deyvid, atualmente tenho 16 anos, comecei a aprender desenvolvimento Web com 14 anos, Meus conhecimentos atuais são de Html, Css, Php, mysql, Javascript e Node.js, me sinto mais confiante com Node.js e Javascript. */
+
+position: absolute;
+width: 753px;
+height: 837px;
+left: 697px;
+top: 80px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 200;
+font-size: 50px;
+line-height: 59px;
+
+color: #000000;
+
+ 
 }
